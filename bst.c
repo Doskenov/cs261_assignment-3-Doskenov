@@ -13,7 +13,6 @@
 #include <assert.h>
 #include "stack.h"
 #include "bst.h"
-#include "tgmath.h"
 #define bool int
 /*
  * This structure represents a single node in a BST.
